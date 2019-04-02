@@ -1,5 +1,6 @@
 package com.company;
 //Rylee Charlton, 04/04/2019, Exercise 11
+//Create a new class containing PressureSensor and update the main so that the new pressure is displayed.
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
